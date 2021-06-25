@@ -24,3 +24,6 @@ to be exact. Checkout my youtube channel if you wanted to see some
 > This is not my professional resume, just a brief explanation on what kind
 > of human being I am. So please don't expect a formal language on this page.
 
+
+Checkout [my blog](https://theikalman.github.io/blog/) for other sources of
+information if you need to.
